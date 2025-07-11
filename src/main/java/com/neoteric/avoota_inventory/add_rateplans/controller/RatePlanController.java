@@ -21,6 +21,10 @@ public class RatePlanController {
         log.info("POST /api/rateplans - Creating rate plan");
 
         return ratePlanService.addRatePlan(dto);
+
+
+
+
     }
 
     @GetMapping("/room/{roomId}")
