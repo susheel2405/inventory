@@ -16,3 +16,8 @@ public class CorsConfig implements WebMvcConfigurer {
                 .maxAge(3600); // Cache CORS response for 1 hour
     }
 }
+
+
+
+
+
