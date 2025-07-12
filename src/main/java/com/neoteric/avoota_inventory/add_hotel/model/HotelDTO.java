@@ -21,3 +21,6 @@ public class HotelDTO {
     private List<RoomDTO> rooms;
 
 }
+
+
+
